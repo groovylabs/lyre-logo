@@ -42,7 +42,7 @@
      id="namedview3446"
      showgrid="false"
      inkscape:zoom="0.36283851"
-     inkscape:cx="661.21186"
+     inkscape:cx="606.69459"
      inkscape:cy="415.56344"
      inkscape:window-x="1360"
      inkscape:window-y="35"
@@ -52,7 +52,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Logotipo_Lyra_02"
      transform="matrix(1.25,0,0,-1.25,0,1052.3625)"><path
-       d="m 0,0 1190.55,0 0,841.89 L 0,841.89 0,0 Z"
+       d="m 0,-1.953125e-5 1190.55,0 0,841.88999953125 -1190.55,0 L 0,-1.953125e-5 Z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3454"
        inkscape:connector-curvature="0"
@@ -62,7 +62,8 @@
        style="fill:#000000"
        inkscape:export-filename="/home/CIT/kaiocb/workspace/groovelabs/lyre-logo/logo/lyre.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><g
+       inkscape:export-ydpi="90"
+       transform="translate(-3.20005,8.046875e-5)"><g
          id="g3458"
          clip-path="url(#clipPath3460)"
          style="fill:#000000"><g
